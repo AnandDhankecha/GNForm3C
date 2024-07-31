@@ -333,6 +333,11 @@
                                             <span class="title">Receipt Type</span>
                                         </a>
                                     </li>
+                                    <li class="nav-item  ">
+                                        <a href='<%=ResolveClientUrl("~/AdminPanel/Master/MST_Student/MST_StudentList.aspx") %>' class="nav-link ">
+                                            <span class="title">Student Mast  <li class="nav-item  ">
+                                        </a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">

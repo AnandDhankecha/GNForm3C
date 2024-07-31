@@ -355,6 +355,17 @@
                                                                             </div>
                                                                         </div>
                                                                     </a>
+                                                                    <a href="MAster/MST_Student/MST_StudentList.aspx">
+                                                                        <div class="tile bg-green">
+                                                                            <div class="tile-body">
+                                                                                <i class="fa fa-list"></i>
+                                                                            </div>
+                                                                            <div class="tile-object">
+                                                                                <div class="name">Student Master</div>
+                                                                                <div class="number"></div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </a>
                                                                     <a href="Account/ACC_Expense/ACC_ExpenseList.aspx">
                                                                         <div class="tile bg-green">
                                                                             <div class="tile-body">
